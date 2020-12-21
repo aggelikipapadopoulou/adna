@@ -1,2 +1,2 @@
 # adna
-genotype dataset of 225 ancient individuals in EIGENSTRAT format (Southeastern Europe, Mathieson et al. Nature 2018)
+genotype dataset of 225 ancient individuals of Southeastern Europe in EIGENSTRAT format (Mathieson et al. Nature 2018)
